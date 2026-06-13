@@ -1,0 +1,31 @@
+The submission contains a root folder named Online_Gaming_Website
+The root folder contains overview.txt.
+The root folder contains scope_of_work.txt.
+The root folder contains assets.pdf.
+The root folder contains reference_image.png.
+The root folder contains instructions.md.
+The root folder contains rubrics.txt.
+The website source includes an index.html file.
+The website source includes a CSS stylesheet file.
+The website source includes a JavaScript file.
+The homepage displays a gaming-style hero section.
+The navigation bar displays Home, Games, Categories, About, Contact links.
+The website includes a featured games section.
+The catalog displays at least six game cards.
+Each game card displays a game thumbnail.
+Each game card displays a game title.
+Each game card displays a game category label.
+Each game card displays a visible play button.
+The category filter includes Action as an option.
+The category filter includes Puzzle as an option.
+The category filter includes Arcade as an option.
+The category filter includes Racing as an option.
+The category filter includes Casual as an option.
+Selecting a category changes the visible catalog results.
+The website includes a game play screen.
+The play screen includes visible gameplay instructions.
+The play screen includes a return link to the catalog.
+The layout adapts to a mobile viewport below 480px.
+The project includes README.md with local run instructions.
+The submission avoids copyrighted game characters.
+

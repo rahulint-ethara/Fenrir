@@ -1,0 +1,29 @@
+Scope of Work
+
+Build a responsive frontend website for an online gaming portal.
+
+Create a homepage with a gaming-style hero section.
+
+Create a navigation bar with Home, Games, Categories, About, and Contact links.
+
+Create a featured games section.
+
+Create a catalog section with at least six sample games.
+
+Create game cards showing thumbnail, title, category, and play button.
+
+Create category filters for Action, Puzzle, Arcade, Racing, and Casual.
+
+Create a game detail or play screen for selected games.
+
+Create at least one playable JavaScript demo or a clearly interactive game placeholder.
+
+Create About and Contact sections.
+
+Create a responsive layout for desktop, tablet, and mobile screens.
+
+Create a README.md with setup and run instructions.
+
+Use only self-created, public-domain, CC0, or CC-BY assets.
+
+Do not use copyrighted game characters, brand logos, real casino content, payment flows, or real-money gaming mechanics.

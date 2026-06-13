@@ -1,0 +1,7 @@
+Online Gaming Website
+
+Category: Web Development
+
+This task requires a responsive online gaming website for a casual browser-game portal. The website should let users browse sample games, filter games by category, open a demo play screen, view basic game details, and use the site on desktop, tablet, and mobile screens.
+
+The website is a frontend MVP. It does not require real-money gaming, user accounts, online multiplayer, payment processing, or backend administration. The final result should be clean, fast, visually gaming-focused, and easy to run locally.
